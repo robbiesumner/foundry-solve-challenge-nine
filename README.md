@@ -1,6 +1,6 @@
 # Challenge Nine
 
-This challenge was definitely one of the hardest there is in the [Foundry Course](https://github.com/Cyfrin/foundry-full-course-f23)
+This challenge was definitely one of the hardest there is in the [Foundry Course](https://github.com/Cyfrin/foundry-full-course-f23).
 Here I created a simple contract to solve the challenge!
 
 ## Quickstart
